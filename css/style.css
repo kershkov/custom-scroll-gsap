@@ -1,0 +1,19 @@
+html,body{margin:0;}
+
+#scrollContainer{
+	width: 100%;
+	position: relative;
+}
+#scrollInner{
+  	position: fixed;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+  	height: auto;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	max-height: 100vh;
+}
